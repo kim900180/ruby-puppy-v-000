@@ -12,7 +12,7 @@ class Dog
     @@all = []
   end
 
-  def all 
+  def all
     @@all
   end
 end
